@@ -1,7 +1,7 @@
 # IrineTheresa
 # Hi, I'm Irine Theresa 👋
 
-### Backend Developer | Full Stack Learner | Web Developer | Freelancing Focus 🚀
+### Frontend Developer | Full Stack Learner | Web Developer | Freelancing Focus 🚀
 
 I'm a frontend-focused developer passionate about building scalable web apps.
 
