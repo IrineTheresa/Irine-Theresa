@@ -1,14 +1,14 @@
 # IrineTheresa
 # Hi, I'm Irine Theresa 👋
 
-### Backend Developer | Full Stack Learner | Freelancing Focus 🚀
+### Backend Developer | Full Stack Learner | Web Developer | Freelancing Focus 🚀
 
-I'm a backend-focused developer passionate about building scalable web apps.
+I'm a frontend-focused developer passionate about building scalable web apps.
 
 ---
 
 ## 🚀 Current Focus
-- Mastering Backend (Node.js + Express + PostgreSQL)
+- Mastering Frontend (Javascript + React + HTML + CSS)
 - Becoming Freelance-ready
 - Building Full Stack Projects
 
@@ -16,9 +16,9 @@ I'm a backend-focused developer passionate about building scalable web apps.
 
 ## 📌 Projects
 - 🏥 Pharmacy Management System
-- 🌐 Developer Portfolio Website
+- 🌐 Cute To-Do website
 - 🎨 UI/UX Design (Figma)
-
+- 🏋‍♀️ Fitness Tracker
 ---
 
 ## 🛠 Skills
